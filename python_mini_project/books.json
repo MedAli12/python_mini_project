@@ -1,0 +1,17 @@
+[
+  {
+    "title": "aaa"
+  },
+  {
+    "id": 2,
+    "title": "omek",
+    "author": "omek",
+    "year": 200,
+    "ISBN": "11144477",
+    "description": "ahaha",
+    "category": "omek",
+    "number_of_copies": 10,
+    "page_number": 1223,
+    "publisher": "hihihahahoho"
+  }
+]
